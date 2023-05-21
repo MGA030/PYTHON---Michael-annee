@@ -462,9 +462,8 @@ def plot(x, y, ax, title, y_label):
 fig, ax = plt.subplots()
 plot(x, y1, ax, 'Increase in mean Fortune 500 compant profits from 1955 to 2005', 'Profit (millions)')
 ```
+![output_16_0](https://github.com/MGA030/PYTHON---Michael-annee/assets/134095872/51a09ed0-6c57-47e6-8df9-b2d4efb5d60f)
 
-
-![png](output_16_0.png)
 
 
 

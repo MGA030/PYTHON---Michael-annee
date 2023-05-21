@@ -1,4 +1,4 @@
-# PYTHON---Michael-annee
+# PYTHON---Michael-Anne
 This is the portfolio of python code that I learned during Bisc 450C.
 
 

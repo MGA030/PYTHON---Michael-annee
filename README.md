@@ -472,9 +472,8 @@ y2 = avgs.revenue
 fig, ax = plt.subplots()
 plot(x, y2, ax, 'Increase in mean Fortune 500 company revenues from 1955 to 2005', 'Revenue (millions)')
 ```
+![output_17_0](https://github.com/MGA030/PYTHON---Michael-annee/assets/134095872/23faa1b7-e4ce-416f-952c-e9ca9f2885f3)
 
-
-![png](output_17_0.png)
 
 
 
@@ -491,9 +490,8 @@ plot_with_std(x, y2.values, stds2, ax2, title % 'revenues', 'Revenue (millions)'
 fig.set_size_inches(14,4)
 fig.tight_layout()
 ```
+![output_18_0](https://github.com/MGA030/PYTHON---Michael-annee/assets/134095872/299a4c34-0d5c-4267-90ab-8023ddbfb232)
 
-
-![png](output_18_0.png)
 
 
 

@@ -917,9 +917,7 @@ ave_inflammation = numpy.mean(data, axis = 0)
 ave_plot = matplotlib.pyplot.plot(ave_inflammation)
 matplotlib.pyplot.show()
 ```
-
-
-![png](output_2_0.png)
+![output_2_0](https://github.com/MGA030/PYTHON---Michael-annee/assets/134095872/4c4e8186-c246-4a39-9d8d-0e959d1fc95f)
 
 
 
@@ -927,9 +925,8 @@ matplotlib.pyplot.show()
 max_plot = matplotlib.pyplot.plot(numpy.amax(data, axis = 0))
 matplotlib.pyplot.show()
 ```
+![output_3_0](https://github.com/MGA030/PYTHON---Michael-annee/assets/134095872/7093db13-1ad0-4b43-b32a-0e2b6f46d5e0)
 
-
-![png](output_3_0.png)
 
 
 
@@ -937,9 +934,8 @@ matplotlib.pyplot.show()
 min_plot = matplotlib.pyplot.plot(numpy.amin(data, axis = 0))
 matplotlib.pyplot.show()
 ```
+![output_4_0](https://github.com/MGA030/PYTHON---Michael-annee/assets/134095872/0a4bfb5d-9bc8-46e8-8992-be0aa9d3f5e3)
 
-
-![png](output_4_0.png)
 
 
 
@@ -967,9 +963,7 @@ matplotlib.pyplot.show()
 
 
 ```
-
-
-![png](output_5_0.png)
+![output_5_0](https://github.com/MGA030/PYTHON---Michael-annee/assets/134095872/4ff89bf4-1ea5-4d4e-94d9-f61554046e50)
 
 
 
@@ -1278,22 +1272,25 @@ for filename in filenames:
     matplotlib.pyplot.show()
     
 ```
-
     inflammation-01.csv
+    
+![output_3_1](https://github.com/MGA030/PYTHON---Michael-annee/assets/134095872/4a1fe80e-7300-4d85-95c3-2ea3ddc3fc0d)
 
+    inflammation-02.csv
 
+![output_3_3](https://github.com/MGA030/PYTHON---Michael-annee/assets/134095872/66f5786a-d582-4369-976a-fd9dadcaf98b)
 
 ![png](output_2_1.png)
 
 
-    inflammation-02.csv
+    inflammation-03.csv
 
 
 
 ![png](output_2_3.png)
 
 
-    inflammation-03.csv
+
 
 
 
